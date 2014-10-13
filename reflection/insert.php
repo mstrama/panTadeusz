@@ -17,10 +17,18 @@
     {
         $_SESSION['message'] = $message;
     }
+
     $ref = $_SERVER['HTTP_REFERER'];
 
 
+    $to      = 'jakub.kanclerz@gmail.com';
+    $subject = 'the subject';
+    $message = 'hello';
+    $headers = 'From: webmaster@example.com' . "\r\n" .
+        'Reply-To: webmaster@example.com' . "\r\n" .
+        'X-Mailer: PHP/' . phpversion();
 
+    mail($to, $subject, $message, $headers);
 
     $con = mysqli_connect("127.0.0.1", "user", "pass", "baza");// Check connection
 
