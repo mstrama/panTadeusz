@@ -1,10 +1,23 @@
 <?php
+// Start the session
+session_start();
+?>
+
+<?php
     function renderBook($book)
     {
         if ($book == 'index') {
             include sprintf('books/%s.php', $book);
         } else {
             include sprintf('books/book-%d.php', $book);
+        }
+    }
+
+    function showFlash()
+    {
+        if (isset($_SESSION['message'])) {
+            return $_SESSION['message'];
+            unset($_SESSION['message']);
         }
     }
 ?>
@@ -15,6 +28,9 @@
     <meta charset="UTF-8">
 </head>
 <body>
+    <div>
+        <?= showFlash() ?>
+    </div>
     <div>
         <h1>Adam Mickiewicz</h1>
 
@@ -41,5 +57,6 @@
     <div>
         <?php renderBook($_GET['book']) ?>
     </div>
+    <?php include sprintf('reflection/list.php', $book); ?>
 </body>
 </html>
