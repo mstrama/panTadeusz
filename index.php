@@ -16,8 +16,9 @@ session_start();
     function showFlash()
     {
         if (isset($_SESSION['message'])) {
-            return $_SESSION['message'];
+            $msg = $_SESSION['message'];
             unset($_SESSION['message']);
+            return $msg;
         }
     }
 ?>
