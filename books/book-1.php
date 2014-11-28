@@ -1,9 +1,9 @@
 
 <h3>KSIĘGA PIERWSZA</h3>
 
-<h4>GOSPODARSTWO</h4>
+<h4>GOSPODARSTWO takie o</h4>
 
-<p class="streszczenie">
+<p class="col-xs-12 col-md-2">
 Powrót panicza<br>
 Spotkanie się najpierwsze w pokoiku, drugie u stołu<br>
 Ważna Sędziego nauka o grzeczności<br>
