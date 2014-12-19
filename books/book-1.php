@@ -1,7 +1,7 @@
 
 
 <div class="page-header">
-  <h1>Księga pierwsza<small>
+  <h1>Księga pierwsza<br><small>
   Gospodarstwo</small></h1>
 </div>
 
