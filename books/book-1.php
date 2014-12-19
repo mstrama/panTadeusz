@@ -2,6 +2,9 @@
 <h3>KSIĘGA PIERWSZA</h3>
 
 <h4>GOSPODARSTWO</h4>
+<div class="page-header">
+  <h1>Gospodarstwo<small>Subtext for header</small></h1>
+</div>
 
 <p class="col-xs-12 col-md-2">
 Powrót panicza Tomaaasza<br>
