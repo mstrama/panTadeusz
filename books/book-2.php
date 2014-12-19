@@ -1,6 +1,9 @@
-<h3>KSIĘGA DRUGA</h3>
-
-<h4>ZAMEK</h4>
+<div class="panel panel-default">
+  <div class="panel-heading">Księga Druga</div>
+  <div class="panel-body">
+    Zamek
+  </div>
+</div>
 
 <p class="streszczenie">
 Polowanie z chartami na upatrzonego<br>
