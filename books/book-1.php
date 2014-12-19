@@ -1,15 +1,13 @@
 
-<head>
-<div class="row">
-  <div class="col-md-6">.col-md-6</div>
-  <div class="col-md-6">.col-md-6</div>
-</div>
-</head>
+
 <div class="page-header">
   <h1>Księga pierwsza<br><small>
   Gospodarstwo</small></h1>
 </div>
-
+<div class="row">
+  <div class="col-md-6">.col-md-6</div>
+  <div class="col-md-6">.col-md-6</div>
+</div>
 
 Powrót panicza Tomaaasza<br>
 Spotkanie się najpierwsze w pokoiku, drugie u stołu<br>
@@ -22,6 +20,10 @@ Rzut oka na ówczesny stan polityczny Litwy i Europy
 </p>
 
 <p>
+<div class="row">
+  <div class="col-md-6">.col-md-6</div>
+  <div class="col-md-6">.col-md-6</div>
+</div>
 Litwo! Ojczyzno moja! ty jesteś jak zdrowie.<br>
 Ile cię trzeba cenić, ten tylko się dowie,<br>
 Kto cię stracił. Dziś piękność twą w całej ozdobie<br>
