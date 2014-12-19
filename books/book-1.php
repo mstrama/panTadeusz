@@ -5,7 +5,7 @@
   Gospodarstwo</small></h1>
 </div>
 
-<p class="col-xs-12 col-md-2">
+
 Powrót panicza Tomaaasza<br>
 Spotkanie się najpierwsze w pokoiku, drugie u stołu<br>
 Ważna Sędziego nauka o grzeczności<br>
