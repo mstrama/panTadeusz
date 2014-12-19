@@ -8,22 +8,26 @@
   <div class="col-md-6">.col-md-6</div>
   <div class="col-md-6">.col-md-6</div>
 </div>
-
+<p>
+<div class="row">
+  <div class="col-md-6">
 Powrót panicza Tomaaasza<br>
 Spotkanie się najpierwsze w pokoiku, drugie u stołu<br>
 Ważna Sędziego nauka o grzeczności<br>
-Podkomorzego uwagi polityczne nad modami<br>
+Podkomorzego uwagi polityczne nad modami<br></div>
+  <div class="col-md-6">
 Początek sporu o Kusego i Sokoła<br>
 Żale Wojskiego<br>
 Ostatni Woźny Trybunału<br>
-Rzut oka na ówczesny stan polityczny Litwy i Europy
+Rzut oka na ówczesny stan polityczny Litwy i Europy</div>
+</div>
+
+
+
 </p>
 
 <p>
-<div class="row">
-  <div class="col-md-6">.col-md-6</div>
-  <div class="col-md-6">.col-md-6</div>
-</div>
+
 Litwo! Ojczyzno moja! ty jesteś jak zdrowie.<br>
 Ile cię trzeba cenić, ten tylko się dowie,<br>
 Kto cię stracił. Dziś piękność twą w całej ozdobie<br>
