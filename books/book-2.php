@@ -1,8 +1,8 @@
 <div class="panel panel-default">
-  <div class="panel-heading">Księga Druga</div>
   <div class="panel-body">
-    Zamek
+    Księga Druka
   </div>
+  <div class="panel-footer">Zamek</div>
 </div>
 
 <p class="streszczenie">
