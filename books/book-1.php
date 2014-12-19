@@ -1,7 +1,7 @@
 
 <h3>KSIĘGA PIERWSZA</h3>
 
-<h4>GOSPODARSTWO takie o</h4>
+<h4>GOSPODARSTWO</h4>
 
 <p class="col-xs-12 col-md-2">
 Powrót panicza Tomaaasza<br>
