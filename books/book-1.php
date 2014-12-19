@@ -1,5 +1,10 @@
 
-
+<head>
+<div class="row">
+  <div class="col-md-6">.col-md-6</div>
+  <div class="col-md-6">.col-md-6</div>
+</div>
+</head>
 <div class="page-header">
   <h1>Księga pierwsza<br><small>
   Gospodarstwo</small></h1>
